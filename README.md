@@ -1,6 +1,3 @@
-<p align-"center">
-<img scr="http://I.imgur.com/Clzj7xs.png" alt="osTicket logo"/>
-
 <h1>osTicket-Prerequisites and Installation</h1>
 
 <h2>Video Demonstration</h2>
